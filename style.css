@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; background: #f0f2f5; display: flex; justify-content: center; padding-top: 60px; }
+.box { background: #fff; padding: 28px 32px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,.15); width: 340px; }
+label { display: block; margin-top: 12px; font-size: 14px; }
+input { width: 100%; padding: 8px; margin-top: 4px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 4px; }
+button, .btn { margin-top: 16px; padding: 10px 16px; background: #2f6fed; color: #fff; border: 0; border-radius: 4px; cursor: pointer; text-decoration: none; display: inline-block; }
+.error { color: #b00020; background: #fde7ea; padding: 8px; border-radius: 4px; }
+.ok { color: #1b6e2d; background: #e3f6e7; padding: 8px; border-radius: 4px; }
